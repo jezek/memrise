@@ -1,0 +1,15 @@
+{
+	"name": "memrise.jezek",
+	"description": "Memrise Webapp",
+	"architecture": "all",
+	"title": "Memrise",
+	"hooks": {
+		"memrise": {
+			"apparmor": "memrise.apparmor.json",
+			"desktop":  "memrise.desktop"
+		}
+	},
+	"version": "0",
+	"maintainer": "jEzEk <jezek@chicki.sk>",
+	"framework" : "ubuntu-sdk-15.04.5"
+}

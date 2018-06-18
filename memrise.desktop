@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Memrise
+Comment=Memrise Webapp
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://*.memrise.com/*,https?://memrise.com/*,https?://*.google.com/*,https?:///www.facebook.com/* http://www.memrise.com/login/ %u
+Icon=memrise.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#000000
