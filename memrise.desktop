@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Memrise
 Comment=Memrise Webapp
-Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://*.memrise.com/*,https?://memrise.com/*,https?://*.google.com/*,https?:///www.facebook.com/* http://www.memrise.com/login/ %u
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://*.memrise.com/*,https?://memrise.com/*,https?://*.google.com/*,https?://www.facebook.com/* https://www.memrise.com/login/ %u
 Icon=memrise.png
 Terminal=false
 Type=Application
