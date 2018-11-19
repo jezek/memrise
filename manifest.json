@@ -9,7 +9,7 @@
 			"desktop":  "memrise.desktop"
 		}
 	},
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"maintainer": "jEzEk <jezek@chicki.sk>",
-	"framework" : "ubuntu-sdk-15.04.5"
+	"framework" : "ubuntu-sdk-16.04"
 }
